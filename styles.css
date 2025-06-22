@@ -1,0 +1,36 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    width: 400px;
+    font-size: 48px;
+    margin: 16px auto;
+}
+
+ul {
+    width: 300px;
+    font-size: 32px;
+    margin: 16px auto;
+}
+
+li {
+    margin: 16px 8px;
+}
+
+.tiramisu {
+    color: white;
+    background-color: rgb(71, 31, 0);
+}
+
+.misosoup {
+    color: white;
+    background-color: darkolivegreen;
+}
+
+.shakshuka {
+    color: white;
+    background-color: rgb(142, 0, 0);
+}
+
+
